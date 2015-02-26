@@ -1,10 +1,8 @@
 available here: [emmaggie.github.io/](http://emmaggie.github.io/)
-##Aerial by HTML5 UP
-##html5up.net | @n33co
-##Modified by @emmaggiees
+based on Aerial by [HTML5 UP](http://html5up.net/) | [@n33co](https://twitter.com/n33co)
+##Modified by [@emmaggiees](https://twitter.com/emmaggiees)
 
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-
 
 This is Aerial, a single page, single screen responsive site template. Real simple.
 Makes heavy use of CSS animation (something I've been messing with a lot lately).
