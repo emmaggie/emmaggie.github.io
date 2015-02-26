@@ -1,4 +1,4 @@
-available here: emmaggie.github.io/(http://emmaggie.github.io/)
+available here: [emmaggie.github.io/](http://emmaggie.github.io/)
 ##Aerial by HTML5 UP
 ##html5up.net | @n33co
 ##Modified by @emmaggiees
